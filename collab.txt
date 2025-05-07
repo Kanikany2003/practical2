@@ -1,0 +1,3 @@
+Collaborator updategit checkout update-by-collaborator
+git checkout update-by-collaborator
+
